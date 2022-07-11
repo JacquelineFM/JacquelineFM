@@ -6,22 +6,14 @@
 
 I am passionate about technology and innovations; I love seeing how we live in a revolution in the digital world and how innovative solutions are developed every day that help the world. Currently, I am a recent graduate of the Software Engineering career at the University of Colima and during my training I have participated in competitive events, hackathons and bootcamps. I am always looking for new challenges, knowledge and meet people who give me value.
 
-<br>
-
 ## ✍ About me
-
----
 
 - 🔭 I’m currently working as a Software Developer.
 - 🌱 I’m currently learning React, TypeScript, GraphQL, etc.
 - 💬 Ask me about Hapeil, a secret project of mine that I'm working on.
 - 🎓 Recently graduated from the Software Engineering career of the UCOL.
 
-<br>
-
 ## 🚀 Technologies and Tools
-
----
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
@@ -65,22 +57,14 @@ I am passionate about technology and innovations; I love seeing how we live in a
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 
-<br>
-
 ## 🔥 GitHub Stats
-
----
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JacquelineFM&show_icons=true&icon_color=007ACC&title_color=61dafb&text_color=fff&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelineFM&layout=compact&langs_count=7&title_color=61dafb&text_color=fff&theme=dark"/>
 </div>
 
-<br>
-
 ## 📬 Find me on
-
----
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/JacquelineFM_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacqueline-flores-méndez-7521ab177/)
