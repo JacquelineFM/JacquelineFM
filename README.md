@@ -60,7 +60,6 @@ I am passionate about technology and innovations; I love seeing how we live in a
 
 ## 📬 Find me on
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/JacquelineFM_)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacqueline-flores-méndez-7521ab177/)
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:jfloresm.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white)](https://github.com/JacquelineFM)
